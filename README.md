@@ -237,18 +237,19 @@ See [`LICENSE`](LICENSE) for full text.
 ## Citation
 
 If you use BABEL in your research or product, please cite:
-
 ```bibtex
 @software{babel2026,
   title = {BABEL Protocol: Universal Grammar for Secure AI Communication},
   author = {Riva, Francesco},
   organization = {Angelia srl SB},
   year = {2026},
-  url = {https://github.com/angelia/babel-protocol}
+  url = {https://github.com/Angeliasrl/babel-protocol}
 }
 ```
 
 ---
+
+
 
 ## Related Work
 
