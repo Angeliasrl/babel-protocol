@@ -224,13 +224,41 @@ See [`LICENSE`](LICENSE) for full text.
 
 ## About Angelia srl SB
 
-**Angelia srl Società Benefit** specializes in post-quantum cryptography and AI governance systems.
+**Angelia srl Società Benefit** è una Startup Innovativa con sede a Clusone (BG), Italia.
+Fondata e guidata da Francesco Riva, sviluppa sistemi tecnologici certificati per la
+continuità relazionale e la presenza attiva — con un impegno esplicito verso la
+trasparenza, la verifica matematica e la tutela delle persone fragili.
 
-- **Location:** Clusone (BG), Italy
-- **Founded:** 2024
-- **Focus:** Neutral, transparent, and verifiable technology
+### Angelia Con Me
 
-**Contact:** francesco.riva@angelia.cloud
+Il prodotto principale è **Angelia Con Me**: un sistema di presenza attiva domestica
+per chi vive solo. Non sorveglia — si accorge. Tre cerchi concentrici:
+
+- **Nodo** — la persona che vive sola
+- **Famiglia** — chi le sta vicino e se ne prende cura
+- **Comunità** — chi organizza l'assistenza su scala territoriale
+
+Applicazione mobile (Android/iOS) in trial reale dal maggio 2026.
+→ [angelia.cloud/angelia](https://angelia.cloud/angelia)
+
+### Ecosistema tecnico
+
+Parallelamente al prodotto umano, Angelia srl SB sviluppa un ecosistema di protocolli
+fondativi per la certificazione digitale situata:
+
+- **SIGILLO** — infrastruttura di certificazione digitale con data certa
+- **FVC** (Fiduciary Value Container) — contenitore di atti digitali situati
+- **SLF** (Situated Living File) — documenti viventi con dimensioni spaziali e temporali
+- **UXO-NM** — unità atomica di esistenza digitale non-manipolabile
+- **CHI** — asse di identità dell'agente nel triedro algebrico
+- **NEGATRUST** — protocolli di prova di assenza
+- **CHRONOTM** — sistema di certificazione temporale
+
+Tutti pubblicati su Zenodo con DOI permanente. Vedere sezione *Related Work*.
+
+**Sito:** [angelia.cloud](https://angelia.cloud)
+**Contatto:** francesco.riva@angelia.cloud
+**Sede:** Clusone (BG), Italia
 
 ---
 
@@ -253,11 +281,27 @@ If you use BABEL in your research or product, please cite:
 
 ## Related Work
 
-- **CHRONOTM:** Temporal certification system
-- **NEGATRUST:** Proof-of-absence protocols
-- **SIGILLO:** Digital certification infrastructure
+### Prodotto umano
+- **Angelia Con Me** — sistema di presenza attiva domestica per chi vive solo
+  → [angelia.cloud/angelia](https://angelia.cloud/angelia)
 
-All developed by Angelia srl SB. See [https://angelia.cloud](https://angelia.cloud) for complete portfolio.
+### Pubblicazioni scientifiche (Zenodo, DOI permanente)
+- **UXO-NM v1.0** — Unità di esistenza digitale non-manipolabile
+  → [doi.org/10.5281/zenodo.19864081](https://doi.org/10.5281/zenodo.19864081)
+- **FVC v0.1** — Fiduciary Value Container
+  → [doi.org/10.5281/zenodo.19897892](https://doi.org/10.5281/zenodo.19897892)
+- **FVC-Agent v0.1** — Catena di responsabilità per agenti su FVC
+  → [doi.org/10.5281/zenodo.20098752](https://doi.org/10.5281/zenodo.20098752)
+- **SLF v0.1** — Situated Living File
+  → [doi.org/10.5281/zenodo.20121612](https://doi.org/10.5281/zenodo.20121612)
+
+### Protocolli fondativi
+- **SIGILLO** — infrastruttura di certificazione digitale
+- **CHRONOTM** — sistema di certificazione temporale
+- **NEGATRUST** — protocolli di prova di assenza
+- **CHI** — asse di identità nell'algebra situata
+
+Ecosistema completo: [angelia.cloud](https://angelia.cloud)
 
 ---
 
